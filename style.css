@@ -1,0 +1,30 @@
+body{
+background-color: azure;
+}
+
+ul{
+display: flex;
+padding: 20px;
+text-decoration: none;
+align-items: center;
+
+}
+
+.navbar{
+display: flex;
+color: aliceblue;
+background-color: aqua;
+
+}
+
+
+li{
+padding:1rem;
+
+
+}
+
+a{
+text-decoration: none;
+
+}
